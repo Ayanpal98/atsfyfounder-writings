@@ -14,4 +14,4 @@ Inline SVG editorial illustrations. Zero JavaScript.
 Written by Ayan Pal, Founder — ATSFy Technologies, Agartala, Tripura.
 
 → Live: [your-deployed-url]
-→ Also published on Medium: [medium-link]
+→ Also published on Medium: https://medium.com/@ayanpal0698/they-said-congratulations-nobody-told-us-what-comes-next-0cb45cde93dc
